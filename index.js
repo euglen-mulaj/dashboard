@@ -42,7 +42,7 @@ console.log(checkPass);
   //saving to localStorage
   localStorage.setItem('Users: ',JSON.stringify(users) );
 }
-
+//
 
 document.addEventListener('DOMContentLoaded', ()=>{
   document.getElementById('signup').addEventListener('click', addUser)
