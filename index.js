@@ -1,3 +1,4 @@
+//javascript file containing functions in vanilla
 $( document ).ready(function() {
     console.log( "ready!" );
 });
